@@ -7,11 +7,11 @@ fi
 
 if [ -e $today ] 
 then
-	echo "$1 exist."
+	echo "$today exist."
 	exit 1
 else
-	echo "Making Directory $1"
-	mkdir -p $1/practice
-	mkdir $1/answer
-	touch $1/question.txt
+	echo "Making Directory $today"
+	mkdir -p $today/practice
+	mkdir $today/answer
+	touch $today/question.md
 fi
