@@ -1,17 +1,20 @@
 #!/bin/bash
+BASEDIR=$(pwd)/Online-judge/
 if [ $# -ne 1 ]; then
-	today=$(date +%Y%m%d)
+	TODAY=$(date +%Y%m%d)
 else
-	today=$1
+	TODAY=$1
 fi
 
-if [ -e $today ] 
+DIR=$BASEDIR/$TODAY
+
+if [ -e $DIR ] 
 then
-	echo "$today exist."
+	echo "$DIR exist."
 	exit 1
 else
-	echo "Making Directory $today"
-	mkdir -p $today/practice
-	mkdir $today/answer
-	touch $today/question.md
+	echo "Making Directory $DIR"
+	mkdir -p $DIR/practice
+	mkdir $DIR/answer
+	touch $DIR/question.md
 fi
