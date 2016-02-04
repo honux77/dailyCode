@@ -8,9 +8,11 @@ Daily Coding!
 
 ### 알고리즘 사이트
 
+* https://projecteuler.net/
+
 * https://www.hackerrank.com/
 
-* https://leetcode.com
+* https://leetcode.com/
 
 ### 알고리즘 MOOC
 
@@ -25,3 +27,9 @@ Daily Coding!
 * https://www.codecademy.com/
 
 * https://www.khanacademy.org/
+
+### Useful Tips
+
+* https://github.com/loverajoel/jstips
+
+* https://github.com/sindresorhus/awesome
