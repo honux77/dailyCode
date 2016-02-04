@@ -24,11 +24,25 @@ Daily Coding!
 
 * https://www.coursera.org/course/algo2
 
+### online IDE
+
+* https://c9.io/
+
+* https://www.goorm.io/
+
+* http://codepen.io/
+
+
 ### 코딩 배우기
 
 * https://www.codecademy.com/
 
 * https://www.khanacademy.org/
+
+### 새로운 언어 배우기
+
+* https://tour.golang.org/welcome/1
+
 
 ### Useful Tips
 
