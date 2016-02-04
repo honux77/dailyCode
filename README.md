@@ -1,12 +1,10 @@
-dailyCode
+Daily Coding!
 =========
-# Welcome to DailyCode!
+### [페이스북 매일 코딩 그룹](https://www.facebook.com/groups/daycode)
 
 <img src="https://octodex.github.com/images/baracktocat.jpg" width=200>
 
 이 저장소는 페이스북 그룹 매일코딩 그룹을 위한 코드 저장소입니다. 
-
-### [페이스북 매일 코딩 그룹](https://www.facebook.com/groups/daycode)
 
 ### 알고리즘 사이트
 
