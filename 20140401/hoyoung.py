@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/1003
-count = [0] * 40
+
+count = [0] * 41
 count[0]= count[1] = 1
 
 def fact(n):
